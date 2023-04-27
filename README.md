@@ -12,5 +12,8 @@ He has obsessive compulsive behavior and has created a routine and has trained u
 ## Website Project
 A project I will be working on is to create a website for dogsitting services. I need to start using agile methods either kanban or scrum to schedule my dogsitting appointments and daily schedule.
 
+## Alarms Project
+Gregory will be creating a program to set alarms for times when Benji usually participates in his routines, so as to predict his actions and make his companions' lives easier.
+
 # LICENSE
 The license I will be using with this project is GNU General Public License v3.0.
