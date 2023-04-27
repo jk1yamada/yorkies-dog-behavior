@@ -1,7 +1,7 @@
 # yorkies-dog-behavior
 
 I have a Yorkshire terrier named Benji.
-![Benji]([20191212_170329](https://user-images.githubusercontent.com/126037017/235000232-9d5abb81-ecaf-4e41-b22f-3c06d7989a53.jpg)
+![Benji](image[20191212_170329](https://user-images.githubusercontent.com/126037017/235000232-9d5abb81-ecaf-4e41-b22f-3c06d7989a53.jpg)
 
 
 > Feed me and take me for walks
