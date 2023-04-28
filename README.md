@@ -19,4 +19,4 @@ Gregory will be creating a program to set alarms for times when Benji usually pa
 The license I will be using with this project is GNU General Public License v3.0.
 
 # Contributor
-1. I really like your project, Hoever, would you consider using hyperlinks or other quick guides to go to multiple pages?
+1. Brent Kenyon - I really like your project, Hoever, would you consider using hyperlinks or other quick guides to go to multiple pages?
